@@ -1,0 +1,28 @@
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.AssemblyInfoInputs.cache
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.AssemblyInfo.cs
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.csproj.CoreCompileInputs.cache
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.exe
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.deps.json
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.runtimeconfig.json
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.dll
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.pdb
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.dll
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\refint\ZooQuiPete.dll
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.pdb
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.genruntimeconfig.cache
+C:\Users\Jules\OneDrive\Bureau\C sharp\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ref\ZooQuiPete.dll
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.exe
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.deps.json
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.runtimeconfig.json
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.dll
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\bin\Debug\net8.0\ZooQuiPete.pdb
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.AssemblyInfo.cs
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.dll
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\refint\ZooQuiPete.dll
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.pdb
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ZooQuiPete.genruntimeconfig.cache
+C:\Users\Student\Desktop\C#\ZooQuiPete\ZooQuiPete\ZooQuiPete\obj\Debug\net8.0\ref\ZooQuiPete.dll
